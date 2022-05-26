@@ -1,0 +1,36 @@
+p 
+{
+    color: red;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    
+}
+
+.design
+{
+    margin-left: 15%;
+    margin-right: 200px;
+    box-shadow: 6px 5px 4px violet;
+}
+
+.design:hover
+{
+    background-color: lime;
+}
+
+.left 
+{
+    background-color: aquamarine;
+}
+
+.right
+{
+    text-align: right;
+    background-color: bisque;
+}
+
+.middle
+{
+    text-align: center;
+    background-color: burlywood;
+}
