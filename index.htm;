@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+
+    <link rel="stylesheet" href="design.css" />
+  </head>
+
+  <body>
+    <h2>few more examples</h2>
+
+    <ul>
+      <li>First Item</li>
+      <li>Second Item</li>
+      <li>................</li>
+      <li>something else here....</li>
+    </ul>
+
+    <h3>orderes list below</h3>
+
+    <ol type="i">
+      <li>once again first item here</li>
+      <li>..................</li>
+      <li>333.333333 3333</li>
+    </ol>
+
+    <div class="all-boxes">
+      <div class="inner-box">
+        <img src="art.jpg" alt="" class = "img-style"/>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas illum
+          facilis magnam, enim tenetur voluptatum dolorum doloribus quam. Error
+          ratione, adipisci corporis recusandae harum veniam aliquid aspernatur
+          quasi eos quo.
+        </p>
+      </div>
+
+      <div class="inner-box">
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa quis
+          sapiente aliquam deleniti, voluptas eum mollitia exercitationem, sed
+          unde similique quibusdam quidem. Dolorum quod ratione vero nihil rem
+          assumenda ad!
+        </p>
+      </div>
+
+      <div class="inner-box">
+        <p>
+          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ullam culpa
+          incidunt cumque fugiat ipsum molestias natus, adipisci porro eaque
+          tenetur fugit, est aut at officiis pariatur doloribus dolorem corrupti
+          maiores.
+        </p>
+      </div>
+    </div>
+  </body>
+</html>
