@@ -1,0 +1,48 @@
+.outer
+{
+    display: grid; 
+    /* grid-template-column: repeat(3, 1fr) */
+    /* grid-template-columns: 100px 100px 100px 250px; */
+    grid-template-columns: 1fr 2fr 1fr;
+    grid-gap: 30px;
+}
+
+.inner p
+{
+    background-color: aquamarine;
+}
+
+/* .outer
+{
+    background-color: antiquewhite;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inner
+{
+    background-color: cornflowerblue;
+    height: 100px;
+    width: 100px;
+    margin-right: 10px;
+}
+
+.inner p
+{
+    margin: 15px;
+}
+
+.inner button
+{
+    margin-left: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+    border-radius: 10px;
+}
+
+.inner button:hover
+{
+    background-color: orange;
+} */
