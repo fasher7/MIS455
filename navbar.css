@@ -1,0 +1,23 @@
+.nav
+{
+    margin-left: 40px;
+}
+
+a
+{
+    text-decoration: none;
+    color: white;
+    font-weight: 900;
+    padding: 10px;
+}
+
+a:hover
+{
+    background-color: blueviolet;
+}
+
+p
+{
+    background-color: indianred;
+    height: 40px;
+}
